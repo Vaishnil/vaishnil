@@ -1,0 +1,109 @@
+.infocontaner{
+    margin: 50px auto;
+    height: 75vh;
+    width: 80vw;
+   display: flex;
+    justify-content: space-around;
+}
+.main{
+   
+    width: 90vw;
+}
+.devpic img{
+    height: 60vh;
+    width: 25vw;
+    display: flex;
+    margin: 5vh;
+   
+ 
+}
+.devinfo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.hello{
+    font-size: 8vh;
+    font-family: 'Fira Sans', sans-serif;
+    }
+    .name{
+    font-size: 11vh;
+    font-weight: bold;
+    font-family: 'Fira Sans', sans-serif;
+    }
+    .about{
+        font-size: 8vh;
+        font-family: 'Fira Sans', sans-serif;
+    }
+    .moreabout{
+        font-size: 3vh;
+        margin-top: 1vh;
+    }
+    .button{
+        margin-top: 2vh;
+    }
+    .button button{
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    }
+    .button button:hover{
+        background-color: black;
+        color: aliceblue
+    }
+    .aboutcontaner{
+        font-family: 'Fira Sans', sans-serif;
+    }
+    .am{
+        font-family: 'Fira Sans', sans-serif;
+        margin: 10px;
+    }
+    .msk{
+        font-family: 'Fira Sans', sans-serif;
+        margin: 10px;
+    }
+    .aboutcontaner p{
+        font-family: 'Fira Sans', sans-serif;
+        margin: 10px; 
+    }
+    .projectslist{
+        margin: 20px;
+        font-family: 'Fira Sans', sans-serif;
+    
+    }
+    .projectslist h3{
+        font-family: 'Fira Sans', sans-serif;
+    
+    }
+    .projectslist p{
+        font-family: 'Fira Sans', sans-serif;
+    }
+    .btn{
+        margin: 10px;
+        border-radius: 20px;
+        padding: 10px; 
+        cursor: pointer;
+        border: 2px solid black;
+    }
+    .btn:hover{
+        background-color: black;
+        color: aliceblue;
+    }
+    .contactform{
+        margin: 10vh auto;
+        font-family: 'Fira Sans', sans-serif;
+        text-align: center;
+        width: 50vw;
+        border: 2px solid black;
+    }
+    .mb-33{
+       padding: 10px;
+        
+    }
+    .mb-31{
+        padding: 10px;
+    }
+    .main h2{
+        text-align: center;
+    }
