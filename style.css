@@ -6,11 +6,10 @@
     justify-content: space-around;
 }
 .main{
-       border: 2px solid;
-    border-radius: 50px;
+      
     display: block;
     margin: auto;
-    width: 90vw;
+    margin-top: 50px;
 }
 nav{
     background-color: #0eb1ff;
@@ -73,6 +72,9 @@ nav{
         font-family: 'Fira Sans', sans-serif;
         margin: 10px; 
     }
+.aboutcontaner h1{
+    margin: 20px;
+}
     .projectslist{
         margin: 20px;
         font-family: 'Fira Sans', sans-serif;
@@ -112,4 +114,12 @@ nav{
     }
     .main h2{
         text-align: center;
+    }
+ @media (max-width: 500px){
+        .infocontaner{
+            display: block;
+        }
+        .devpic img{
+            width: 60vw;
+        }
     }
