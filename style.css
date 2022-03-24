@@ -79,8 +79,10 @@ nav{
     .projectslist{
         margin: 20px;
         font-family: 'Fira Sans', sans-serif;
-    
     }
+.projectcontaner{
+padding: 20px; 
+}
     .projectslist h3{
         font-family: 'Fira Sans', sans-serif;
     
